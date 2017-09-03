@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Hi</title>
+</head>
+<body>
+    <div class="menu">
+			<ul>
+        <li><a href="tab1.html" class="item">1</a></li>
+        <li><a href="tab2.html" class="item">2</a></li>
+				<li><a href="tab3.html" class="item">3</a></li>
+        <li><a href="tab4.html" class="item">4</a></li>
+				<li><a href="tab5.html" class="item">5</a></li>
+			</ul>
+		</div>
+</body>
+</html>
